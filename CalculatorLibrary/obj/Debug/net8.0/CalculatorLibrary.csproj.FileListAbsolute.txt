@@ -1,0 +1,12 @@
+/Users/daniel/RiderProjects/Calculator/CalculatorLibrary/bin/Debug/net8.0/CalculatorLibrary.deps.json
+/Users/daniel/RiderProjects/Calculator/CalculatorLibrary/bin/Debug/net8.0/CalculatorLibrary.dll
+/Users/daniel/RiderProjects/Calculator/CalculatorLibrary/bin/Debug/net8.0/CalculatorLibrary.pdb
+/Users/daniel/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.AssemblyInfoInputs.cache
+/Users/daniel/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.AssemblyInfo.cs
+/Users/daniel/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.csproj.CoreCompileInputs.cache
+/Users/daniel/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.dll
+/Users/daniel/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net8.0/refint/CalculatorLibrary.dll
+/Users/daniel/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.pdb
+/Users/daniel/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net8.0/ref/CalculatorLibrary.dll
+/Users/daniel/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.csproj.AssemblyReference.cache
